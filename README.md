@@ -22,9 +22,6 @@ An interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and *
 - JavaScript-powered game logic
 - Replay without reloading the page
 
-## 📸 Screenshot
-
-![Homepage](./src/assets/images/homepage.png)
 
 ## 📚 Ideal For
 
