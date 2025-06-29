@@ -1,6 +1,6 @@
 # ✊✋✌️ Rock Paper Scissors Game
 
-![Homepage](./src/assets/images/homepage.png)
+![Homepage](./images/rps.png)
 
 An interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. This beginner-friendly project is perfect for learning basic game logic, event listeners, and DOM manipulation.
 
